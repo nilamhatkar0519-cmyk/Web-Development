@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> NILAM's  Profile </title>
+</head>
+
+<body>
+
+    <h1>Student Profile</h1>
+    <p><b>Name: </b> Nilam Namdev Hatkar</p>
+    <p><b>Class:</b> SY</p>
+    <p><b>Course:</b> B.Tech</p>
+    <p><b>Branch:</b> Computer Science & Engineering (CSE)</p>
+    <p><b>Roll No:</b> 70</p>
+    <p><b>Email:</b> nilamhatkar0519@gmail.com</p>
+
+    <hr>
+
+    <h2>Hobbies</h2>
+    <ul>
+        <li> Dancing & Singing  </li>
+        <li> Swimming</li>
+        <li> Reading Books </li>
+    </ul>
+
+    <hr>
+
+    <p> THANK YOU for visiting my profile page.</p>
+
+</body>
+</html>
